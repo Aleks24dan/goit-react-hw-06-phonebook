@@ -13,7 +13,7 @@ margin: 20px;
     text-align: center;
 `
 export const TitleH1 = styled.h1`
-color:#d0cfc7;
+color:#d0cfc5;
 `
 
 export const TitleH2 = styled.h2`
